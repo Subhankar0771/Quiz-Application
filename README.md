@@ -37,3 +37,9 @@ Improved understanding of local storage, time-based events, and interactive web 
 Practiced creating responsive layouts with pure CSS and efficient event handling in JS.
 
 Conclusion: This project helped me build strong foundational skills in frontend development and problem-solving. It provided practical experience in developing a real-world application from scratch and strengthened my confidence in working with core web technologies. The guidance from my mentor, Neela Santosh, played a key role in refining my approach to UI/UX and coding standards.# Quiz-Application
+
+OUTPUT
+<img width="811" height="601" alt="Image" src="https://github.com/user-attachments/assets/f7fa9058-399c-4c93-9f2e-b1a230b74273" />
+<img width="1144" height="919" alt="Image" src="https://github.com/user-attachments/assets/e888d4a1-3fb9-469a-b7f3-82a19880736b" />
+<img width="594" height="430" alt="Image" src="https://github.com/user-attachments/assets/03f91f1a-ef03-4fc4-badb-d54ed7012516" />
+
